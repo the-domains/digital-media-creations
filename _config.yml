@@ -1,20 +1,4 @@
-name: Digital Media Creations
-favicon: null
-layout_spectrum: 0.7735356707125902
 typography_spectrum: 0.9228897579014301
-title: Digital Media Creations
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#51627e'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6605314565822482
   saturation: 0.7380629805848002
   rhythmicContrast: 0.6150834592990577
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7735356707125902
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Digital Media Creations
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Patrick Farrington
+description: Director of Photography | Avid Editor
 purpose: []
